@@ -1,0 +1,3 @@
+<launch>
+<rosparam command="load" file="$(find tum_moveit)/config/slam_sensors.yaml" />
+</launch>
